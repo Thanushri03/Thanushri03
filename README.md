@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 🌱 My GitHub Stats
 ![S-U-R-Y-A-1's Stats](https://github-readme-stats.vercel.app/api?username=S-U-R-Y-A-1&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![S-U-R-Y-A-1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-U-R-Y-A-1&theme=blueberry&hide_border=true)
 <p align="center">
 
 ![S-U-R-Y-A-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-U-R-Y-A-1&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
