@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Surya!
+# 👋 Hello, I'm ThanuShri!
 
-[![GitHub followers](https://img.shields.io/github/followers/S-U-R-Y-A-1?style=social)](https://github.com/S-U-R-Y-A-1)
-[![Visitors](https://komarev.com/ghpvc/?username=S-U-R-Y-A-1&color=blue)](https://github.com/S-U-R-Y-A-1)
+[![GitHub followers](https://img.shields.io/github/followers/Thanushri03?style=social)](https://github.com/Thanushri03)
+[![Visitors](https://komarev.com/ghpvc/?username=Thanushri03&color=blue)](https://github.com/Thanushri03)
 
 Welcome to my GitHub profile! I'm a passionate developer exploring the world of code and open-source contributions.
 
