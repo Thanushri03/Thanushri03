@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:suryasabari7711@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryasivakumar1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:thanushri2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thanushri/)
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I love to watch sitcoms!!!
+When I'm not coding, I love to watch binge-watch NETFLIX!!!
 
 ---
 
-⭐ From [Surya](https://github.com/S-U-R-Y-A-1)
+⭐ From [Thanushri](https://github.com/thanushri03)
