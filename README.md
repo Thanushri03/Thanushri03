@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
 ## 🌱 My GitHub Stats
 ![Thanushri03's Stats](https://github-readme-stats.vercel.app/api?username=Thanushri03&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<p align="center">
 
-![S-U-R-Y-A-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushri03&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![Thanushri03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushri03&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ## 🔭 Current Projects
