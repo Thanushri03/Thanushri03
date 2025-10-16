@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ThanuShri!
+# 👋 Hello, I'm thanuShri!
 
 [![GitHub followers](https://img.shields.io/github/followers/Thanushri03?style=social)](https://github.com/Thanushri03)
 [![Visitors](https://komarev.com/ghpvc/?username=Thanushri03&color=blue)](https://github.com/Thanushri03)
